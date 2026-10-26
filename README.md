@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola, soy Raúl Pino Rodríguez! 👋
 
-<!--
-**Raulfpfomento/Raulfpfomento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador Web Junior** y actualmente cursando **2º de DAW** (Desarrollo de Aplicaciones Web)[cite: 1]. Vivo en **Vigo, Galicia, España** y estoy activamente en busca de nuevas oportunidades profesionales (*#OpenToWork*)[cite: 1].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+Aquí tienes algunas de las tecnologías y herramientas con las que trabajo habitualmente:
+
+*   **Lenguajes:** Java, JavaScript, HTML, CSS[cite: 1]
+*   **Entornos de desarrollo y herramientas:** *(puedes añadir aquí Git, GitHub, etc., si los usas)*
+
+---
+
+### 🌱 Actualmente estoy...
+*   Profundizando mis conocimientos en **2º de DAW**[cite: 1].
+*   Construyendo proyectos prácticos para afianzar mis habilidades en desarrollo web y Java.
+
+---
+
+### 📬 ¿Conectamos?
+
+*   💼 **LinkedIn:** [Tu enlace a LinkedIn]
+*   📧 **Email:** [Tu correo electrónico profesional]
